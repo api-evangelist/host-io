@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://host.io
 common:
+  - type: DomainSecurity
+    url: security/host-io-domain-security.yml
   - type: Website
     url: https://host.io
   - type: PublicAPIsListing
