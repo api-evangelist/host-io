@@ -39,7 +39,6 @@ apis:
   - name: Host.io
     description: "Domains Data API for Developers"
     humanURL: https://host.io
-    baseURL: https://host.io
     tags:
       - Development
     properties:
