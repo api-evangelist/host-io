@@ -27,7 +27,7 @@ description: "Domains Data API for Developers"
 url: https://host.io
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Development"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://host.io
 common:
+  - url: https://host.io/news
+    type: Blog
   - type: DomainSecurity
     url: security/host-io-domain-security.yml
   - type: Website
